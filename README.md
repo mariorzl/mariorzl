@@ -4,56 +4,49 @@
 
 Me chamo Mario Rey, tenho 32 anos e sou natural de São Paulo - Capital. Formado em Gestão Comercial pela Universidade Nove de Julho. Atualmente, estou cursando Desenvolvimento Java pela FIAP. Sou apaixonado por tecnologia e irei compartilhar meu conhecimento através do meu canal no Tiktok, onde criar projetos web e compartilhar tudo que estou aprendendo, e também através do Instagram.
 
-<p **align**="start">
+<p align="left">
     <a href="https://www.tiktok.com/@mariorzl">
         <img
             alt="Tiktok subscribers" 
             title="Me siga Lá" 
             src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" 
-        />
-    </a>
+        /></a>
     <a href="https://www.tiktok.com/@mariorzl">
         <img
             alt="Tiktok views" 
             title="Vizualizações no Tiktok" 
             src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a>    
+        /></a>    
     <a href="https://github.com/mariorzl?tab=repositories&sort=stargazers">
         <img
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/mariorzl?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
+        /></a>
     <a href="https://github.com/mariorzl?tab=followers">
         <img
             alt="Seguidores" 
             title="Me siga no GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/mariorzl?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+        /></a>
     <a href="https://instagram.com/mariorzl" target="_blank">
         <img
             alt="Seguidores" 
             title="Me siga no Intagram"
             src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"
-        />
-    </a>
+        /></a>
     <a href="https://www.linkedin.com/in/mariorzl/"target="_blank">
         <img
             alt="Seguidores" 
             title="Me siga no LinkedIn"
             src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"
-        />
-    </a>
+        /></a>
     <a href="mailto:mario.rzl@outlook.com"target="_blank">
         <img
             alt="Encaminhar email" 
             title="Contato"
             src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"
-        />
-    </a>
+        /></a>
 </p>
 
 
