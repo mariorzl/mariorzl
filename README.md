@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-End`**
 
-Me chamo Mario Rey, tenho 32 anos e sou natural de São Paulo - Capital. Formado em Gestão Comercial pela Universidade Nove de Julho. Atualmente, estou cursando Desenvolvimento Java pela FIAP. Sou apaixonado por tecnologia e irei compartilhar meu conhecimento através do meu canal no Tiktok, onde criar projetos web e compartilhar tudo que estou aprendendo, e também através do Instagram.
+Me chamo Mario Rey, tenho 32 anos e sou natural de São Paulo - Capital. Formado em Gestão Comercial pela Universidade Nove de Julho. Atualmente, estou cursando Desenvolvimento Java pela FIAP. Sou apaixonado por tecnologia e irei compartilhar meu conhecimento através do meu canal no Tiktok, onde irei criar projetos web e compartilhar tudo que estou aprendendo, também através do Instagram então caso queiram acompanhar fiquem a vontade serão todos bem-vindos.
 
 <p align="left">
     <a href="https://www.tiktok.com/@mariorzl">
