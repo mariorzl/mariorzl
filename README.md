@@ -10,6 +10,7 @@ Me chamo Mario Rey, tenho 32 anos e sou natural de São Paulo - Capital. Formado
             alt="Tiktok subscribers" 
             title="Me siga Lá" 
             src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"
+        />
     </a>
     <a href="https://www.tiktok.com/@mariorzl">
         <img 
@@ -32,20 +33,26 @@ Me chamo Mario Rey, tenho 32 anos e sou natural de São Paulo - Capital. Formado
             src="https://custom-icon-badges.demolab.com/github/followers/mariorzl?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-    <a href="https://instagram.com/mariorzl" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="https://instagram.com/mariorzl" target="_blank">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no Intagram"
+            src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"
+        />
     </a>
     <a href="https://www.linkedin.com/in/mariorzl/"target="_blank">
         <img 
             alt="Seguidores" 
             title="Me siga no LinkedIn"
             src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"
-    />
+        />
    </a>
    <a href="mailto:mario.rzl@outlook.com"target="_blank">
         <img 
             alt="Encaminhar email" 
             title="Contato"
-   src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"> 
+            src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"
+        /> 
 </p>
 
 
