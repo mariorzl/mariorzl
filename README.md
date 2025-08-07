@@ -198,3 +198,4 @@ Me chamo Mario Rey, tenho 32 anos e sou natural de São Paulo - Capital. Formado
   />
 
 </p>
+![Snake animation](https://github.com/mariorzl/blob/output/github-contribution-grid-snake.svg)
